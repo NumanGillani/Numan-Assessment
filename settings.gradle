@@ -1,0 +1,3 @@
+include ':fancydialoglib'
+include ':app'
+rootProject.name = "Numan Assessment"
